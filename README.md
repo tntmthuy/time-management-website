@@ -28,7 +28,7 @@ Người dùng có thể chỉnh sửa, thay đổi trạng thái, thêm ghi ch�
 ![Task](images/task.png)
 
 ### Gợi ý công việc từ AI
-Tích hợp AI để gợi ý các nhiệm vụ con. Nhờ đó, người dùng tiết kiệm thời gian lập kế hoạch và có định hướng rõ ràng hơn trong quá trình làm việc.
+Tích hợp AI để gợi ý các nhiệm vụ con. Nhờ đó, người dùng tiết kiệm thời gian lập kế hoạch và có định hướng rõ ràng hơn trong quá trình làm việc.<br>
 ![AI Suggestions](images/ai-suggestions.png)
 
 ### Admin Dashboard

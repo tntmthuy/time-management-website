@@ -12,15 +12,30 @@
 ![Landing Page](images/landingpage.png)
 
 ### Focus Mode
+- Hẹn giờ cho từng phiên làm việc tập trung.
+- Xem lại lịch sử các phiên đếm giờ đã hoàn thành.
+- Theo dõi chuỗi ngày tập trung (**streak**) để duy trì thói quen làm việc hiệu quả.
 ![Focus Mode](images/focus-mode.png)
 
 ### Timer
+Chức năng hẹn giờ giúp người dùng quản lý thời gian làm việc hiệu quả hơn.  
+- Cho phép tùy chỉnh thời lượng phiên làm việc và nghỉ ngơi.
+- Hiển thị trực quan tiến trình đếm ngược, giúp duy trì sự tập trung.
 ![Timer](images/timer.png)
 
 ### User Dashboard
+Giao diện User Dashboard được triển khai nhằm giúp người dùng theo dõi hiệu suất làm việc một cách trực quan.  
+- Hiển thị **biểu đồ thời gian tập trung**, so sánh giữa ngày hôm qua và hôm nay.
+- Liệt kê các công việc đang thực hiện, giúp nắm bắt tiến độ rõ ràng.
 ![User Dashboard](images/user-dashboard.png)
 
 ### Workspace
+Giao diện Workspace cho phép người dùng quản lý toàn bộ công việc và dự án trong một không gian tập trung.  
+- Tạo và sắp xếp các cột hay các thẻ nhiệm vụ theo phương pháp Kanban.
+- Theo dõi tiến độ và trạng thái công việc.
+- Cộng tác với thành viên khác trong nhóm.
+- Dễ dàng chuyển đổi giữa các chế độ hiển thị (Bảng, danh sách thành viên, lịch).
+
 ![Workspace](images/workspace.png)
 
 ### Task

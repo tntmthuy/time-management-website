@@ -1,4 +1,4 @@
-📖 Tóm tắt đề tài <br>
+📖 Tóm tắt <br>
 Đề tài “Xây dựng website quản lý công việc dùng Java Spring Boot, ReactJS và MySQL có tích hợp máy học” tập trung phát triển một nền tảng quản lý công việc và lịch trình cá nhân, đồng thời hỗ trợ làm việc nhóm hiệu quả. <br>
 🎯 Mục tiêu 
 - Hỗ trợ người dùng lập kế hoạch, phân công công việc nhóm và duy trì thói quen làm việc hiệu quả.

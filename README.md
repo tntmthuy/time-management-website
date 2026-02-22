@@ -23,5 +23,13 @@
 ### Workspace
 ![Workspace](images/workspace.png)
 
+### Task
+Người dùng có thể chỉnh sửa, thay đổi trạng thái, thêm ghi chú hoặc cập nhật tiến độ cho từng nhiệm vụ.
+![Task](images/task.png)
+
+### Gợi ý công việc từ AI
+Tích hợp AI để gợi ý các nhiệm vụ con. Nhờ đó, người dùng tiết kiệm thời gian lập kế hoạch và có định hướng rõ ràng hơn trong quá trình làm việc.
+![AI Suggestions](images/ai-suggestions.png)
+
 ### Admin Dashboard
 ![Admin Dashboard](images/admin-dashboard.png)

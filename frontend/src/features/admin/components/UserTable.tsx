@@ -55,12 +55,12 @@ export const UserTable = ({
                 <td className="px-4 py-2">{user.fullName}</td>
                 <td className="px-4 py-2">{user.email}</td>
                 <td className="px-4 py-2">
-                  {dayjs(user.createdAt, "DD/MM/YYYY").isValid() ? (
-                    dayjs(user.createdAt, "DD/MM/YYYY").format("DD/MM/YYYY")
+                  {dayjs(user.createdAt).isValid() ? (
+                    dayjs(user.createdAt).format("DD/MM/YYYY HH:mm:ss")
                   ) : (
                     <span className="text-gray-500 italic">Invalid Date</span>
                   )}
-                </td>
+                </td>~
                 <td className="px-4 py-2">
                   {user.role === "ADMIN" ? (
                     <span className="rounded bg-red-100 px-2 py-1 text-xs font-medium text-red-600">
